@@ -24,3 +24,14 @@ Um dos maiores problemas que a empresa tem é a falta de precisão quando um nov
 - PLANT - É o código do armazém de cais onde o produto foi entregue.
 - PERIOD - Ano/Mês em que o produto foi entregue (formato AAAAMM).
 - KG - Quantidade de produto vendido. As unidades são diferenciadas por UNIT_OF_WT.	
+
+
+[01](https://github.com/nickolasdias/FOOD-S.A/blob/main/Dashboards/overview1.png)
+
+[02](https://github.com/nickolasdias/FOOD-S.A/blob/main/Dashboards/overview2.png)
+
+[03](https://github.com/nickolasdias/FOOD-S.A/blob/main/Dashboards/page1.png)
+
+[04](https://github.com/nickolasdias/FOOD-S.A/blob/main/Dashboards/page2.png)
+
+[05](https://github.com/nickolasdias/FOOD-S.A/blob/main/Dashboards/page3.png)
