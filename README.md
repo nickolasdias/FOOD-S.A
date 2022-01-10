@@ -1,4 +1,4 @@
-# Projeto de Análise de Dados: FOOD-S.A
+# Projeto de Análise de Dados: FOOD S.A
 
 A FOOD S.A é a empresa número 1 para fabricar produtos a serem preparados em casa. Entretanto, em 2020, a nova diretoria da empresa decidiu produzir e comercializar queijo. A ideia era complementar o portfólio da empresa e aumentar sua participação no mercado. Desde 2020, a empresa vem investindo muitos recursos para ser uma empresa inovadora. Por essa razão, começou a manter um registro de suas transações em um sistema ERP com o objetivo de utilizar esses dados para obter alguns insights que ajudassem a desenvolver melhores produtos.
 
