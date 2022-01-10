@@ -11,3 +11,16 @@ Um dos maiores problemas que a empresa tem é a falta de precisão quando um nov
 - A empresa quer lançar uma nova marca de queijo, mas não sabe se lança com produtos de 100 gramas por unidade ou 200 gramas por unidade. Qual delas pode-se recomendar ? E quantas toneladas de produto recomenda-se a produção para o primeiro mês de venda deste novo produto ?
 
 ## Glossário
+
+•	CHANNEL - Ele representa o canal onde um produto é comercializado. Um Canal é um grupo de clientes com características similares.
+•	SOLD_TO - É o ID para identificar cada cliente.
+•	MATERIAL - É o ID para identificar cada produto.
+•	CODE_TO_GROUP - Às vezes, dois produtos iguais têm códigos diferentes. Para juntar as bainhas, usamos este código.
+•	SUB_BRAND - Submarca para o produto.
+•	BRAND - Marca para o produto.
+•	CATEGORY - Categoria do produto. A categoria é o grupo no mercado onde um produto se compila. Por exemplo: bebidas é onde todos os refrigerantes são compósitos.
+•	TYPE - Tipo do produto: Regular ou leve.
+•	WEIGHT_PER_UNIT - Mostra o peso da unidade de um produto.
+•	PLANT - É o código do armazém de cais onde o produto foi entregue.
+•	PERIOD - Ano/Mês em que o produto foi entregue (formato AAAAMM).
+•	KG - Quantidade de produto vendido. As unidades são diferenciadas por UNIT_OF_WT.	
